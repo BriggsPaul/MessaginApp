@@ -1,0 +1,1 @@
+role_list = ["ADMIN", "PREMIUM_USER", "FREE_USER"]
